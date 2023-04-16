@@ -186,7 +186,7 @@
                                             "and": [
                                                 {
                                                     "equals": [
-                                                        "",
+                                                        "@length(variables('ip_results'))",
                                                         ""
                                                     ]
                                                 }
