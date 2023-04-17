@@ -185,9 +185,9 @@
                                         "expression": {
                                             "and": [
                                                 {
-                                                    "equals": [
+                                                   "greater": [
                                                         "@length(variables('ip_results'))",
-                                                        ""
+                                                        0
                                                     ]
                                                 }
                                             ]
