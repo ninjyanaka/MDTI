@@ -23,3 +23,5 @@ After deploying the playbook, you must authorize the connections leveraged.
 1. Visit the playbook resource.
 2. Under "Development Tools" (located on the left), click "API Connections".
 3. Ensure each connection has been authorized.
+
+Note: If you've deployed the MDTI-Base playbook, you will only need to authorize the Microsoft Sentinel connection.
