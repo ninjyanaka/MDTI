@@ -1,12 +1,19 @@
 MDTI-Data-PassiveDns-Ip
 
+This play book get an Passive DNS information related to IP entiries on Microsoft Setninel.
+
+
 Prerequisites
 1. This playbook inherits API connections created and established within a base playbook. Ensure you have deployed MDTI-Base playbook. If you have trouble accessing your account or your credentials contact your account representative or reach out to discussMDTI[@]microsoft.com.
 2. This playbook requires "Microsoft Sentinel Contributor" role to update Incidents.
 
 Deployment
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/<URLEncoded ARM Template URL>)
+1. Alert trigger
+[Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/ninjyanaka/MDTI/blob/main/Sentinel%20Playbook/IP-PassiveDNS/azuredeployjson-alert.json)
+
+2. Incident trigger
+[Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://https://github.com/ninjyanaka/MDTI/blob/main/Sentinel%20Playbook/IP-PassiveDNS/azuredeployjson-incident.json)
 
 Post-Deployment Instructions
 After deploying the playbook, you must authorize the connections leveraged.
