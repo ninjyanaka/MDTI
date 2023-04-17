@@ -2,6 +2,8 @@ MDTI-Data-PassiveDns-Ip
 
 This play book get an Passive DNS information related to IP entiries on Microsoft Setninel.
 
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/122842488/232360899-fbc985b0-eaa0-478c-ab87-c8d107daeeac.png">
+
 
 Prerequisites
 1. This playbook inherits API connections created and established within a base playbook. Ensure you have deployed MDTI-Base playbook. 
