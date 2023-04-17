@@ -4,7 +4,7 @@ This play book get an Passive DNS information related to IP entiries on Microsof
 
 
 Prerequisites
-1. This playbook inherits API connections created and established within a base playbook. Ensure you have deployed MDTI-Base playbook. If you have trouble accessing your account or your credentials contact your account representative or reach out to discussMDTI[@]microsoft.com.
+1. This playbook inherits API connections created and established within a base playbook. Ensure you have deployed MDTI-Base playbook. 
 2. This playbook requires "Microsoft Sentinel Contributor" role to update Incidents.
 
 Deployment
