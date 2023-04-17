@@ -12,7 +12,7 @@ Deployment
 
 1. Alert trigger
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/ninjyanaka/MDTI/main/Sentinel%20Playbook/IP-PassiveDNS/azuredeployjson.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fninjyanaka%2FMDTI%2Fmain%2FSentinel%2520Playbook%2FIP-PassiveDNS%2Fazuredeployjson.json)
 
 2. Incident trigger
 
