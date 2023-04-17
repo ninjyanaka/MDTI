@@ -16,7 +16,7 @@ Deployment
 
 2. Incident trigger
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/ninjyanaka/MDTI/main/Sentinel%20Playbook/IP-PassiveDNS/azuredeployjson-incident.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2Fninjyanaka%2FMDTI%2Fblob%2Fmain%2FSentinel%2520Playbook%2FIP-PassiveDNS%2Fazuredeployjson-incident.json)
 
 Post-Deployment Instructions
 After deploying the playbook, you must authorize the connections leveraged.
