@@ -5,6 +5,7 @@ This play book get an Passive DNS information related to IP entiries on Microsof
 
 Prerequisites
 1. This playbook inherits API connections created and established within a base playbook. Ensure you have deployed MDTI-Base playbook. 
+ https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Microsoft%20Defender%20Threat%20Intelligence/Playbooks
 2. This playbook requires "Microsoft Sentinel Contributor" role to update Incidents.
 
 Deployment
